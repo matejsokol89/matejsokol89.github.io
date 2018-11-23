@@ -182,19 +182,26 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #1D428A !important;
+  background: #0575E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #021B79, #0575E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  
 }
 
 .text-primary {
-  color: #1D428A !important;
+  color: #0575E6;
+  color: -webkit-linear-gradient(to right, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+  color: -webkit-linear-gradient(to right, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to right, #021B79, #0575E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 a {
-  color: #1D428A;
+  color: #0575E6;
 }
 
 a:hover, a:focus, a:active {
-  color: #1D428A;
+  color: #0575E6;
 }
 
 iframe {
