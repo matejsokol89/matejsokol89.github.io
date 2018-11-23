@@ -8,8 +8,8 @@ For sound display you have to press letters on your keyboard.
 
 
 # Preview of work
-The direct link to see how does it work:
-
+This is the direct link to see how does it work:
+[click here](https://matejsokol89.github.io/TapSound%20App/)
 
 
 
