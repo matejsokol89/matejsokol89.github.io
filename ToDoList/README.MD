@@ -1,7 +1,7 @@
 # ToDoList
 
 
-ToDoList is a Web application build HTML,CSS and JS.
+ToDoList is a Web application build with HTML,CSS and JS.
 Main function is to create a new todo, you can also cross him and delete.
 
 
